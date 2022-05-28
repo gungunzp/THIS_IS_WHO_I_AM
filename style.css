@@ -1,0 +1,19 @@
+html {
+	background-color: #000;
+	margin: 0;
+}
+
+body {
+	max-width: 40em;
+	color: #ddd;
+	font: 18px Arial, sans-serif;
+	line-height: 1.8;
+	text-align: justify;
+	text-indent: 2em;
+	margin: 0 auto;
+	padding: 0 1em 30em;
+}
+
+p {
+	padding-bottom: 1em;
+}
